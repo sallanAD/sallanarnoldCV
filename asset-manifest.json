@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/sallanarnoldCV/static/css/main.ac82d45f.css",
-    "main.js": "/sallanarnoldCV/static/js/main.ff3c43fc.js",
+    "main.js": "/sallanarnoldCV/static/js/main.a764641b.js",
     "static/js/787.cb1fe6ee.chunk.js": "/sallanarnoldCV/static/js/787.cb1fe6ee.chunk.js",
     "static/media/bg-comic.jpeg": "/sallanarnoldCV/static/media/bg-comic.7f6315438d9a873244a2.jpeg",
     "static/media/chores-pic.jpg": "/sallanarnoldCV/static/media/chores-pic.b7453610b471765c2489.jpg",
     "static/media/logo.svg": "/sallanarnoldCV/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sallanarnoldCV/index.html",
     "main.ac82d45f.css.map": "/sallanarnoldCV/static/css/main.ac82d45f.css.map",
-    "main.ff3c43fc.js.map": "/sallanarnoldCV/static/js/main.ff3c43fc.js.map",
+    "main.a764641b.js.map": "/sallanarnoldCV/static/js/main.a764641b.js.map",
     "787.cb1fe6ee.chunk.js.map": "/sallanarnoldCV/static/js/787.cb1fe6ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac82d45f.css",
-    "static/js/main.ff3c43fc.js"
+    "static/js/main.a764641b.js"
   ]
 }
